@@ -1,0 +1,13 @@
+#Faça um programa que leia um número inteiro qualquer e mostre sua tabuada
+n = int(input('Digite um número: '))
+print('SEGUE A TABUADA, MUTCHATCHOOOOO')
+print(f'{1*n}')
+print(f'{2*n}')
+print(f'{3*n}')
+print(f'{4*n}')
+print(f'{5*n}')
+print(f'{6*n}')
+print(f'{7*n}')
+print(f'{8*n}')
+print(f'{9*n}')
+print(f'{10*n}')

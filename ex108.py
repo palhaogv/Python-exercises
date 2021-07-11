@@ -1,0 +1,1 @@
+#adapte o ex 107 com

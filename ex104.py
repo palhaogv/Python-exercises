@@ -1,0 +1,1 @@
+#crie leiaint() que será a mesma função que 'input', mas só aceitará números inteiros.
